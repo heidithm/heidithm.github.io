@@ -1,0 +1,12 @@
+[submodule "themes/quint"]
+	path = themes/quint
+	url = git@github.com:victoriadrake/hugo-theme-quint.git
+[submodule "themes/salinger"]
+	path = themes/salinger
+	url = git@github.com:jacksalici/salinger-theme.git
+[submodule "themes/newsroom"]
+	path = themes/newsroom
+	url = git@github.com:onweru/newsroom.git
+[submodule "themes/ivy"]
+	path = themes/ivy
+	url = git@github.com:yihui/hugo-ivy.git
